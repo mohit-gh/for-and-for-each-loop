@@ -1,7 +1,13 @@
 For-Each Loop
-  It is the most convenient loop to retrieve the elements of Arrays and Collections
+  1) It is the most convenient loop to retrieve the elements of Arrays and Collections
+  2) Foreach loop used when you have an array, without array it's not worked.
+  3) Loop working at the end of array count. For example an array have 5 value then loop run 5 times.
   Limitations:
   1) Not a general purpose loop.
   2) Arrays and Collections.
   3) Can't Retreive Particular set of values
+  
+For Loop
+  1) For loop used according to condition.
+  2) Loop working at the end of given condition.
   
