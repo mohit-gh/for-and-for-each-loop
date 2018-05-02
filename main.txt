@@ -1,0 +1,7 @@
+For-Each Loop
+  It is the most convenient loop to retrieve the elements of Arrays and Collections
+  Limitations:
+  1) Not a general purpose loop.
+  2) Arrays and Collections.
+  3) Can't Retreive Particular set of values
+  
